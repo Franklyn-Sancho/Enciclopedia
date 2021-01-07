@@ -4,13 +4,12 @@
 
 1. [Objetivo](#Objetivo)
 2. [Regras do Projeto](#Regras)
-3. [Web e Internet](#Web)
-   3.1 [Protocolos](#Protocolos)
+3. [Capítulo 1: Internet e Web](#Web)
    
-<h2 align="center"> OBJETIVO </h2>
+<h2 align="center" name="Objetivo"> OBJETIVO </h2>
 Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democrática. Queria muito poder tornar o conhecimento e a educação mais acessível para todos. A tecnologia nos proporciona uma ideia de poder infinito, como se fossemos capazes de fazer qualquer coisa por ela, inclusive resolver os maiores problemas do mundo por completo. O objetivo desse projeto é centralizar o máximo de informações possíveis sobre a tecnologia da informação, tendo como desafio proporcionar uma explicação simples e didática sobre cada um dos conteúdos. Quero proporcionar a todos um lugar de muito aprendizado, roteiros e experiências, um lugar em que todos poderão participar, compartilhando suas histórias, dicas, conselhos e conhecimentos. Ninguém aprende nada sozinho, tudo nesta vida é construído com união. 
 
-<h2 align="center"> Regras do Projeto </h2>
+<h2 align="center" name="Regras"> Regras do Projeto </h2>
 
 * Todos terão acesso ao conteúdo do projeto, inclusive de participar, atualizar, corrigir e construir. Basta mandar seu pull request
 * Todos os tópicos terão que ser explicados de maneira simples e didática. Use a imaginação.
@@ -20,7 +19,7 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
 * O Objetivo deste projeto será agregar e centralizar o máximo de projetos possíveis. Seu diferencial é ser PESSOAL
 * Seja livre para críticas e sugestões. 
 
-<h2 align="center"> CAPÍTULO 1: Internet e Web </h2>
+<h2 align="center" name="Web"> CAPÍTULO 1: Internet e Web </h2>
 
 <h4 align="center"> Este capítulo é totalmente reservado a tópicos sobre web e internet. Inclui protocolos, navegadores, funcionamento, segurança e etc. </h4>
 
@@ -40,4 +39,7 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
 <h4 align="center"> Agora vamos explicar cada um dos protocolos de rede </h4>
 
 4. **Listas de Protocolo de rede**
+   * **4.1 Protocolo http:** abreviação de HyperText Transference Protocol, que nada mais é do que o protocolo padrão da Internet. É por ele que os navegadores requisitam aos servidores as páginas na internet e vice- versa. Tanto a requisição do navegador, quanto a resposta do servidor. De forma simples. Podemos defini-lo como um protocolo cliente-servidor. Cado queira se aprofundar mais sobre o assunto: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview
+   * **4.2 Protocolo FTP:** É um protocolo de transferência de arquivo. Este protocolo funciona tanto do lado do cliente, quanto do servidor. Tem como função transferir arquivos e ficheiros entre dispositivos, inclusive armazenamento de arquivos de forma remota. Também temos o SFTP que é o FTP com uma camada de segurança.
+   * **4.3 Protocolo TCP:** O Protocolo de controle de transmissão, tem como objetivo garantir que os dados sejam integralmente transmitidos, na sequência de envio, para os hosts de destino corretos. Os dados enviados são quebrados em blocos menores de informação, os datagramas, e recompostos no host de destino. Ele também é responsável pelo reenvio da transmissão, no caso de impossibilidade de recuperação do pacote e dados.
 
