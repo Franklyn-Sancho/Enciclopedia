@@ -42,4 +42,8 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
    * **4.1 Protocolo http:** abreviação de HyperText Transference Protocol, que nada mais é do que o protocolo padrão da Internet. É por ele que os navegadores requisitam aos servidores as páginas na internet e vice- versa. Tanto a requisição do navegador, quanto a resposta do servidor. De forma simples. Podemos defini-lo como um protocolo cliente-servidor. Cado queira se aprofundar mais sobre o assunto: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview
    * **4.2 Protocolo FTP:** É um protocolo de transferência de arquivo. Este protocolo funciona tanto do lado do cliente, quanto do servidor. Tem como função transferir arquivos e ficheiros entre dispositivos, inclusive armazenamento de arquivos de forma remota. Também temos o SFTP que é o FTP com uma camada de segurança.
    * **4.3 Protocolo TCP:** O Protocolo de controle de transmissão, tem como objetivo garantir que os dados sejam integralmente transmitidos, na sequência de envio, para os hosts de destino corretos. Os dados enviados são quebrados em blocos menores de informação, os datagramas, e recompostos no host de destino. Ele também é responsável pelo reenvio da transmissão, no caso de impossibilidade de recuperação do pacote e dados.
+   
+***
+
+<h3 align="center"> Sempre em desenvolvimento :warning:</h3>
 
