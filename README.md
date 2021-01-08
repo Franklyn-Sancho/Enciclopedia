@@ -69,4 +69,6 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
 ***
 
 <h3 align="center"> Sempre em desenvolvimento :warning:</h3>
+<p align="right"> Feito com :heart: por Franklyn Sancho. </p>
+<p align="right"> Com todo apoio da minha parceira Luísa Coutinho :heart: </p>
 
