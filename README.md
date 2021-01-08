@@ -24,10 +24,10 @@
   * 4.6 - Protocolo DHCP
   * 4.7 - Protocolo SSH
    
-<h2 align="center" id=Objetivo> OBJETIVO </h2>
+<h2 align="center" name="Objetivo">OBJETIVO</h2>
 Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democrática. Queria muito poder tornar o conhecimento e a educação mais acessível para todos. A tecnologia nos proporciona uma ideia de poder infinito, como se fossemos capazes de fazer qualquer coisa por ela, inclusive resolver os maiores problemas do mundo por completo. O objetivo desse projeto é centralizar o máximo de informações possíveis sobre a tecnologia da informação, tendo como desafio proporcionar uma explicação simples e didática sobre cada um dos conteúdos. Quero proporcionar a todos um lugar de muito aprendizado, roteiros e experiências, um lugar em que todos poderão participar, compartilhando suas histórias, dicas, conselhos e conhecimentos. Ninguém aprende nada sozinho, tudo nesta vida é construído com união. 
 
-<h2 align="center" id=Regras> Regras do Projeto </h2>
+<h2 align="center" name="Regras"> Regras do Projeto</a>  </h2>
 * Todos terão acesso ao conteúdo do projeto, inclusive de participar, atualizar, corrigir e construir. Basta mandar seu pull request
 * Todos os tópicos terão que ser explicados de maneira simples e didática. Use a imaginação.
 * Cada conteúdo criado será enumerado no sumário, junto de sua categoria e subcategoria. 
@@ -36,7 +36,7 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
 * O Objetivo deste projeto será agregar e centralizar o máximo de projetos possíveis. Seu diferencial é ser PESSOAL
 * Seja livre para críticas e sugestões. 
 
-<h2 align="center" id=Web> CAPÍTULO 1: Internet e Web </h2>
+<h2 align="center" Name="Web"> CAPÍTULO 1: Internet e Web </h2>
 
 <h4 align="center"> Este capítulo é totalmente reservado a tópicos sobre web e internet. Inclui protocolos, navegadores, funcionamento, segurança e etc. </h4>
 
