@@ -1,15 +1,33 @@
 <h1 align="center"> ENCICLOPÉDIA </h1>
 
-## Sumário
+<strong>SUMÁRIO</strong><br>
 
-1. [Objetivo](#Objetivo)
-2. [Regras do Projeto](#Regras)
-3. [Capítulo 1: Internet e Web](#Web)
+<a href=”#Objetivo”>Prefácio: Objetivo</a><br>
+<a href=”#Regras”>Prefácio 2: Regras</a><br>
+<a href=”#Web”>Capítulo 1: Web e internet</a>
+* 1 - Protocolos de rede.
+* 2 - Camadas de rede (Modelo OSI).
+  * 2.1 - Camada física
+  * 2.2 - Camada de Enlace
+  * 2.3 - Camada de rede
+  * 2.4 - Camada de transporte
+  * 2.4 - Camada de sessão
+  * 2.5 - Camada de apresentaçao
+  * 2.6 - Camada de aplicação
+* 3 - Modelo TCP/IP:
+* 4 - Listas de Protocolos de rede:
+  * 4.1 - Protocolo HTTP
+  * 4.2 - Protocolo FTP e SFPT
+  * 4.3 - Protocolo TCP
+  * 4.4 - Protocolo SSL
+  * 4.5 - Protocolo TSL
+  * 4.6 - Protocolo DHCP
+  * 4.7 - Protocolo SSH
    
-<h2 align="center" name="Objetivo"> OBJETIVO </h2>
+<h2 align="center" id="Objetivo"> OBJETIVO </h2>
 Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democrática. Queria muito poder tornar o conhecimento e a educação mais acessível para todos. A tecnologia nos proporciona uma ideia de poder infinito, como se fossemos capazes de fazer qualquer coisa por ela, inclusive resolver os maiores problemas do mundo por completo. O objetivo desse projeto é centralizar o máximo de informações possíveis sobre a tecnologia da informação, tendo como desafio proporcionar uma explicação simples e didática sobre cada um dos conteúdos. Quero proporcionar a todos um lugar de muito aprendizado, roteiros e experiências, um lugar em que todos poderão participar, compartilhando suas histórias, dicas, conselhos e conhecimentos. Ninguém aprende nada sozinho, tudo nesta vida é construído com união. 
 
-<h2 align="center" name="Regras"> Regras do Projeto </h2>
+<h2 align="center" id="Regras"> Regras do Projeto </h2>
 
 * Todos terão acesso ao conteúdo do projeto, inclusive de participar, atualizar, corrigir e construir. Basta mandar seu pull request
 * Todos os tópicos terão que ser explicados de maneira simples e didática. Use a imaginação.
@@ -19,7 +37,7 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
 * O Objetivo deste projeto será agregar e centralizar o máximo de projetos possíveis. Seu diferencial é ser PESSOAL
 * Seja livre para críticas e sugestões. 
 
-<h2 align="center" name="Web"> CAPÍTULO 1: Internet e Web </h2>
+<h2 align="center" id="Web"> CAPÍTULO 1: Internet e Web </h2>
 
 <h4 align="center"> Este capítulo é totalmente reservado a tópicos sobre web e internet. Inclui protocolos, navegadores, funcionamento, segurança e etc. </h4>
 
@@ -42,6 +60,11 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
    * **4.1 Protocolo http:** abreviação de HyperText Transference Protocol, que nada mais é do que o protocolo padrão da Internet. É por ele que os navegadores requisitam aos servidores as páginas na internet e vice- versa. Tanto a requisição do navegador, quanto a resposta do servidor. De forma simples. Podemos defini-lo como um protocolo cliente-servidor. Cado queira se aprofundar mais sobre o assunto: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview
    * **4.2 Protocolo FTP:** É um protocolo de transferência de arquivo. Este protocolo funciona tanto do lado do cliente, quanto do servidor. Tem como função transferir arquivos e ficheiros entre dispositivos, inclusive armazenamento de arquivos de forma remota. Também temos o SFTP que é o FTP com uma camada de segurança.
    * **4.3 Protocolo TCP:** O Protocolo de controle de transmissão, tem como objetivo garantir que os dados sejam integralmente transmitidos, na sequência de envio, para os hosts de destino corretos. Os dados enviados são quebrados em blocos menores de informação, os datagramas, e recompostos no host de destino. Ele também é responsável pelo reenvio da transmissão, no caso de impossibilidade de recuperação do pacote e dados.
+   *  **Protocolo HTTPS**: Caso não saiba a função do protocolo HTTP (Sem o S no final), logo acima tem uma explicação do seu funcionamento na rede. O HTTPS funciona exatamente como o protocolo HTTP, mas com uma camada de segurança, chamada SSL. Isso significa que os sites que trabalham com o protocolo HTTPS são mais seguros. 
+   * **Protocolo SSL:** Esta é a camada de proteção do protocolo HTTP (Secure sockets layers). Sua função é garantir segurança na transferência de dados entre o cliente e o servidor. Quando o cliente faz uma requisição a um site seguro, o protocolo SSL é iniciado, ou seja, a conexão SSL sempre é iniciada pelo cliente. Depois da requisição, o servidor solicita o certificado digital, verifica a autenticidade, confirmado, envia a chave pública e as informações podem ser trocadas. Pela conexão ser criptografada, é necessário que haja o envio dessa chave para descriptografar as informações. Toda conexão SSL tem um tempo limitado para o envio dessas informações e as chaves públicas só funcionam na sessão atual. 
+   * **Protocolo TSL:** Abreviação de transport Layer Secure, também é uma camada de segurança assim como o seu antecessor SSL. A principio tem as mesmas funções, mas além de poder operar em portas diferentes ele também usa o Keyed (HMAC) como algoritmo de criptografia, diferente do SSL que usa somente o algoritmo message authentication code (MAC). Para se aprofundar mais sobre essas criptografias, aconselho esse link da Wikipedia: https://pt.wikipedia.org/wiki/HMAC
+   * **Protocolo DHCP:** Abreviação e tradução de protocolo de configuração dinâmica de endereços de rede. Sua função é permitir que os computadores e dispositivos consigam um endereço de IP automaticamente, ao invés de forma manual. Assim que o dispositivo obtém um endereço IP, o mesmo fica indisponível para uso em outros máquinas (Lembrando que cada máquina tem seu próprio IP), assim que ele é desligado, o IP volta a ficar disponível 
+   * **Protocolo SSH:** Também é uma camada de segurança para conexões cliente-servidor. Muito usado, por exemplo, entre um dispositivo seguro e outro inseguro. Além da criptografia, também há uso de login e senha para acesso de um dispositivo a outro, diretamente pelo terminal. O uso deste protocolo é muito simples para usuários Linux e Mac 
    
 ***
 
