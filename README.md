@@ -23,11 +23,14 @@
   * 4.5 - Protocolo TSL
   * 4.6 - Protocolo DHCP
   * 4.7 - Protocolo SSH
+
+<a href=”#Sistemas”>Capítulo 2: Sistemas Operacionais</a>
    
 <h2 align="center" name="Objetivo">OBJETIVO</h2>
 Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democrática. Queria muito poder tornar o conhecimento e a educação mais acessível para todos. A tecnologia nos proporciona uma ideia de poder infinito, como se fossemos capazes de fazer qualquer coisa por ela, inclusive resolver os maiores problemas do mundo por completo. O objetivo desse projeto é centralizar o máximo de informações possíveis sobre a tecnologia da informação, tendo como desafio proporcionar uma explicação simples e didática sobre cada um dos conteúdos. Quero proporcionar a todos um lugar de muito aprendizado, roteiros e experiências, um lugar em que todos poderão participar, compartilhando suas histórias, dicas, conselhos e conhecimentos. Ninguém aprende nada sozinho, tudo nesta vida é construído com união. 
 
 <h2 align="center" name="Regras"> Regras do Projeto</a>  </h2>
+
 * Todos terão acesso ao conteúdo do projeto, inclusive de participar, atualizar, corrigir e construir. Basta mandar seu pull request
 * Todos os tópicos terão que ser explicados de maneira simples e didática. Use a imaginação.
 * Cada conteúdo criado será enumerado no sumário, junto de sua categoria e subcategoria. 
@@ -64,6 +67,8 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
    * **4.6 Protocolo TSL:** Abreviação de transport Layer Secure, também é uma camada de segurança assim como o seu antecessor SSL. A principio tem as mesmas funções, mas além de poder operar em portas diferentes ele também usa o Keyed (HMAC) como algoritmo de criptografia, diferente do SSL que usa somente o algoritmo message authentication code (MAC). Para se aprofundar mais sobre essas criptografias, aconselho esse link da Wikipedia: https://pt.wikipedia.org/wiki/HMAC
    * **4.7 Protocolo DHCP:** Abreviação e tradução de protocolo de configuração dinâmica de endereços de rede. Sua função é permitir que os computadores e dispositivos consigam um endereço de IP automaticamente, ao invés de forma manual. Assim que o dispositivo obtém um endereço IP, o mesmo fica indisponível para uso em outros máquinas (Lembrando que cada máquina tem seu próprio IP), assim que ele é desligado, o IP volta a ficar disponível 
    * **4.8 Protocolo SSH:** Também é uma camada de segurança para conexões cliente-servidor. Muito usado, por exemplo, entre um dispositivo seguro e outro inseguro. Além da criptografia, também há uso de login e senha para acesso de um dispositivo a outro, diretamente pelo terminal. O uso deste protocolo é muito simples para usuários Linux e Mac 
+   
+<h2 align="center" Name="Sistemas"> CAPÍTULO 2: Sistemas Operacionais </h2>
    
 ***
 
