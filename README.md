@@ -68,7 +68,11 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
    * **4.7 Protocolo DHCP:** Abreviação e tradução de protocolo de configuração dinâmica de endereços de rede. Sua função é permitir que os computadores e dispositivos consigam um endereço de IP automaticamente, ao invés de forma manual. Assim que o dispositivo obtém um endereço IP, o mesmo fica indisponível para uso em outros máquinas (Lembrando que cada máquina tem seu próprio IP), assim que ele é desligado, o IP volta a ficar disponível 
    * **4.8 Protocolo SSH:** Também é uma camada de segurança para conexões cliente-servidor. Muito usado, por exemplo, entre um dispositivo seguro e outro inseguro. Além da criptografia, também há uso de login e senha para acesso de um dispositivo a outro, diretamente pelo terminal. O uso deste protocolo é muito simples para usuários Linux e Mac 
    
+***
+   
 <h2 align="center" Name="Sistemas"> CAPÍTULO 2: Sistemas Operacionais </h2>
+
+
    
 ***
 
