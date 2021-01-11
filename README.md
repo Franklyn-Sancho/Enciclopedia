@@ -27,7 +27,7 @@
 <a href=”#Sistemas”>Capítulo 2: Sistemas Operacionais</a>
    
 <h2 align="center" name="Objetivo">OBJETIVO</h2>
-Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democrática. Queria muito poder tornar o conhecimento e a educação mais acessível para todos. A tecnologia nos proporciona uma ideia de poder infinito, como se fossemos capazes de fazer qualquer coisa por ela, inclusive resolver os maiores problemas do mundo por completo. O objetivo desse projeto é centralizar o máximo de informações possíveis sobre a tecnologia da informação, tendo como desafio proporcionar uma explicação simples e didática sobre cada um dos conteúdos. Quero proporcionar a todos um lugar de muito aprendizado, roteiros e experiências, um lugar em que todos poderão participar, compartilhando suas histórias, dicas, conselhos e conhecimentos. Ninguém aprende nada sozinho, tudo nesta vida é construído com união. 
+ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democrática. Queria muito poder tornar o conhecimento e a educação mais acessível para todos. A tecnologia nos proporciona uma ideia de poder infinito, como se fossemos capazes de fazer qualquer coisa por ela, inclusive resolver os maiores problemas do mundo por completo. O objetivo desse projeto é centralizar o máximo de informações possíveis sobre a tecnologia da informação, tendo como desafio proporcionar uma explicação simples e didática sobre cada um dos conteúdos. Quero proporcionar a todos um lugar de muito aprendizado, roteiros e experiências, um lugar em que todos poderão participar, compartilhando suas histórias, dicas, conselhos e conhecimentos. Ninguém aprende nada sozinho, tudo nesta vida é construído com união. 
 
 <h2 align="center" name="Regras"> Regras do Projeto</a>  </h2>
 
@@ -71,6 +71,10 @@ Quem me conhece sabe que sou defensor de uma educação mais inclusiva e democr�
 ***
    
 <h2 align="center" Name="Sistemas"> CAPÍTULO 2: Sistemas Operacionais </h2>
+
+  Me aprofundar totalmente no assunto sobre arquitetura de sistemas operacionais necessitaria muitas páginas. Neste caso, aconselho os livros do Tanenbaum, criador do Minix, um sistema livre, baseado em Unix. Apenas para fins de curiosidade: Linus Torvalds também se baseou no Minix para criação do nosso querido Linux. Talvez vocês estejam se perguntando o porquê do Minix não ser tão conhecido como os outros. A pergunta é justa, afinal ele inspirou muitos clássicos. Pode até ser que eu esteja errado, mas a sua criação teve exclusividade acadêmica. E podemos ver isso ao ler o livro: “Sistemas Operacionais: Processos e implementações – Tanenbaum”. Durante esses setenta anos de história da computação, tivemos inúmeras mudanças, melhorias e revoluções. Isso é fato, basta lembrar de como era o mundo a dez anos atrás. Muito diferente, né? Agora imagina a vinte, trinta, cinquenta anos atrás. Tem um filme bem famoso, o jogo da imitação, que conta a história de Alan Turing, considerado o pai da computação. Uma maneira bem intuitiva de aprender sobre o principio dessa nossa história. Tivemos o Multics, CP/M, System/360, Unix e etc. Hoje temos o Windows, Linux, freeBSD, MacOS e etc. Para chegar a tudo que conhecemos foi necessário muitos estudos, trabalhos e mudanças. Mais uma vez, não é este o objetivo do capítulo, então deixarei para outra ocasiões essa história. Acreditem, é fascinante. Mas aqui falaremos de conceitos. 
+  
+  1. Caminho de dados e controle: 
 
 
    
